@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import JSZip from 'jszip';
-import NavButton from './NavButton';
+import NavButton from './NavButton/NavButton';
 
 function ZipFolderReader() {
   const [fileContent, setFileContent] = useState([]);
