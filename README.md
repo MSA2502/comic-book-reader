@@ -35,7 +35,7 @@ http://localhost:3000
 # Instructions
 1) Click "Open CBZ file":
 
-![Comic Reader Homepage](comic-reader/src/ReadMeImages/homepage.png)
+![Comic Reader Homepage](comic-reader/src/ReadMeImages/OpenCBZFile.png)
  
 
 Dependencies
