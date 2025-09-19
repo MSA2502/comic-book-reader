@@ -36,7 +36,22 @@ http://localhost:3000
 1) Click "Open CBZ file":
 
 ![Comic Reader Homepage](comic-reader/src/ReadMeImages/OpenCBZFile.png)
+
+2) Select a CBZ file
+![Comic Reader Homepage](comic-reader/src/ReadMeImages/chooseCBZ.png)
+
+3) Read The Comic
+![Comic Reader Homepage](comic-reader/src/ReadMeImages/ReadTheComic.png)
  
+
+# Where to find CBZ files?
+
+Public Domain CBZ files can be found and downloaded on Comic Book Plus, and Digital Comics Museum.
+
+
+[Download sample CBZ] (https://comicbookplus.com/)
+
+
 
 Dependencies
 
