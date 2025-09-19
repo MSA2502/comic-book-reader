@@ -1,5 +1,4 @@
 import './App.css';
-import JSZip from 'jszip';
 import ZipFolderReader from './ZipFolderReader'
 
 
