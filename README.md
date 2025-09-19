@@ -49,11 +49,11 @@ http://localhost:3000
 Public Domain CBZ files can be found and downloaded on Comic Book Plus, and Digital Comics Museum.
 
 
-[Download sample CBZ] (https://comicbookplus.com/)
+[Download sample CBZ](https://comicbookplus.com/)
 
 
 
-Dependencies
+# Dependencies
 
 React
 
