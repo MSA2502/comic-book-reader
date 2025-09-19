@@ -46,10 +46,11 @@ http://localhost:3000
 
 # Where to find CBZ files?
 
-Public Domain CBZ files can be found and downloaded on Comic Book Plus, and Digital Comics Museum.
+Public Domain CBZ files can be found and downloaded on Comic Book Plus, and Digital Comics Museum. They have been linked below:
 
+[Comic Book Plus](https://comicbookplus.com/)
 
-[Download sample CBZ](https://comicbookplus.com/)
+[Digital Comics Museum](https://digitalcomicmuseum.com/#:~:text=We%20are%20the%20best%20site,warrant%20extra%20attention%20from%20fandom.)
 
 
 
