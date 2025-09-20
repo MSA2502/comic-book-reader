@@ -25,7 +25,7 @@ Public Domain CBZ files can be found and downloaded on Comic Book Plus, and Digi
 
 
 
-### Manual Installation
+# Manual Installation
 
 1) Clone the repository:
 
