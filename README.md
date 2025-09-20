@@ -3,6 +3,27 @@ This is a Comic book reader built in React that will display CBZ (comic book zip
 
 **Live Demo:** [View on Vercel](https://comic-book-reader-alpha.vercel.app/)
 
+# Instructions
+1) Click "Open CBZ file":
+
+![Comic Reader Homepage](comic-reader/src/ReadMeImages/OpenCBZFile.png)
+
+2) Select a CBZ file
+![Comic Reader Homepage](comic-reader/src/ReadMeImages/chooseCBZ.png)
+
+3) Read The Comic
+![Comic Reader Homepage](comic-reader/src/ReadMeImages/ReadTheComic.png)
+ 
+
+# Where to find CBZ files?
+
+Public Domain CBZ files can be found and downloaded on Comic Book Plus, and Digital Comics Museum. They have been linked below:
+
+[Comic Book Plus](https://comicbookplus.com/)
+
+[Digital Comics Museum](https://digitalcomicmuseum.com/#:~:text=We%20are%20the%20best%20site,warrant%20extra%20attention%20from%20fandom.)
+
+
 
 ### Manual Installation
 
@@ -34,27 +55,6 @@ npm start
 ```sh
 http://localhost:3000
 ```
-
-# Instructions
-1) Click "Open CBZ file":
-
-![Comic Reader Homepage](comic-reader/src/ReadMeImages/OpenCBZFile.png)
-
-2) Select a CBZ file
-![Comic Reader Homepage](comic-reader/src/ReadMeImages/chooseCBZ.png)
-
-3) Read The Comic
-![Comic Reader Homepage](comic-reader/src/ReadMeImages/ReadTheComic.png)
- 
-
-# Where to find CBZ files?
-
-Public Domain CBZ files can be found and downloaded on Comic Book Plus, and Digital Comics Museum. They have been linked below:
-
-[Comic Book Plus](https://comicbookplus.com/)
-
-[Digital Comics Museum](https://digitalcomicmuseum.com/#:~:text=We%20are%20the%20best%20site,warrant%20extra%20attention%20from%20fandom.)
-
 
 
 # Dependencies
