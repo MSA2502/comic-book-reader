@@ -1,7 +1,10 @@
 # comic-book-reader
 This is a Comic book reader built in React that will display CBZ (comic book zip) files in a 2 page format
 
-### Installation
+**Live Demo:** [View on Vercel](https://comic-book-reader-alpha.vercel.app/)
+
+
+### Manual Installation
 
 1) Clone the repository:
 
